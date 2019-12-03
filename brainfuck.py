@@ -2,7 +2,6 @@
 
 # This software is provided as-is in the hopes that it may be useful. #
 
-import shlex
 import sys
 import readchar
 
